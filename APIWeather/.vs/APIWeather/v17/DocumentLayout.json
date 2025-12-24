@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|c:\\users\\asus\\source\\repos\\apiweather\\apiweather\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|solutionrelative:apiweather\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|c:\\users\\asus\\source\\repos\\apiweather\\apiweather\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|solutionrelative:apiweather\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|c:\\users\\asus\\source\\repos\\apiweather\\apiweather\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|solutionrelative:apiweather\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|c:\\users\\asus\\source\\repos\\apiweather\\apiweather\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|solutionrelative:apiweather\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|c:\\users\\asus\\source\\repos\\apiweather\\apiweather\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|solutionrelative:apiweather\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|c:\\users\\asus\\source\\repos\\apiweather\\apiweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B4E6F6-78D9-4CEA-BDBA-CFB496C362A2}|APIWeather\\APIWeather.csproj|solutionrelative:apiweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "APIWeather\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "APIWeather\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T22:36:47.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "APIWeather\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "APIWeather\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T01:49:08.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Program.cs",
+              "RelativeDocumentMoniker": "APIWeather\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Program.cs",
+              "RelativeToolTip": "APIWeather\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T21:35:14.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "APIWeather\\Views\\Weather\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Views\\Weather\\Index.cshtml",
+              "RelativeToolTip": "APIWeather\\Views\\Weather\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-13T20:56:43.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "APIWeather\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Models\\Class.cs",
+              "RelativeToolTip": "APIWeather\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T20:34:21.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "APIWeather\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\APIWeather\\APIWeather\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "APIWeather\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T20:33:57.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

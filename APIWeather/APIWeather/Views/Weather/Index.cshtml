@@ -1,0 +1,72 @@
+﻿
+@model Class.VM
+
+@{
+    ViewData["Title"] = "Hava Durumu";
+}
+
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center fw-bold">Weather Forecast</h2>
+
+
+    <form method="post" class="d-flex justify-content-center mb-4">
+        <select name="City" class="form-select w-25 me-2">
+            <option value="">Select a City</option>
+            @if (Model.Cities != null)
+            {
+                foreach (var city in Model.Cities)
+                {
+                    <option value="@city">@city</option>
+                }
+            }
+        </select>
+        <button type="submit" class="btn btn-primary">Get Weather</button>
+    </form>
+
+    @if (Model.root != null)
+    {
+        <div class="d-flex justify-content-center">
+            <div class="card shadow p-3" style="width: 28rem; background-color: #f0f8ff;">
+                <div class="card-body text-center">
+                   
+                    <h5 class="card-title">@Model.root.location.name, @Model.root.location.country</h5>
+                    <p class="card-text text-muted">@Model.root.location.region | @Model.root.location.localtime</p>
+
+                  
+                    <div class="my-3">
+                        <img src="@Model.root.current.condition.icon" alt="Weather Icon" style="width:64px; height:64px;" />
+                        <h6 class="mt-2">@Model.root.current.condition.text</h6>
+                    </div>
+
+                  
+                    <p class="mb-1"><strong>Temperature:</strong> @Model.root.current.temp_c °C / @Model.root.current.temp_f °F</p>
+                    <p class="mb-1"><strong>Feels Like:</strong> @Model.root.current.feelslike_c °C / @Model.root.current.feelslike_f °F</p>
+
+          
+                    <p class="mb-1"><strong>Wind:</strong> @Model.root.current.wind_kph Kph (@Model.root.current.wind_dir)</p>
+                    <p class="mb-1"><strong>Humidity:</strong> @Model.root.current.humidity %</p>
+
+                 
+                    <p class="mb-1"><strong>Pressure:</strong> @Model.root.current.pressure_mb mb</p>
+                    <p class="mb-1"><strong>Precipitation:</strong> @Model.root.current.precip_mm mm</p>
+                    <p class="mb-1"><strong>Cloud Cover:</strong> @Model.root.current.cloud %</p>
+                    <p class="mb-1"><strong>UV Index:</strong> @Model.root.current.uv</p>
+                    <p class="mb-1"><strong>Visibility:</strong> @Model.root.current.vis_km km</p>
+                    <p class="mb-1"><strong>Wind Gust:</strong> @Model.root.current.gust_kph Kph</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+  
+        .form-select {
+            width: 70% !important;
+        }
+        .card {
+            width: 95% !important;
+        }
+    
+</style>
